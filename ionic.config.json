@@ -1,7 +1,5 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "blank",
+  "integrations": {},
   "type": "react-vite"
 }
